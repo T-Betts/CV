@@ -1,4 +1,4 @@
-## Your Name
+## Tom Betts
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2018 to May 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Newcastle University (2010-2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Politics and History BA
+- 2:1 
 
-#### Any other qualifications
+#### Lancing College (2004-2009)
+
+- Awarded academic entrance exhibition (2004)
+
+- GCSE 
+- RS (A) (June 2006)
+- Maths (A*), English Language (A),
+  English Literature (A), Biology (A), Physics (A),
+  Chemistry (A), Latin (A), History (A), French (A),
+  German (A) (June 2007)
+
+- A2
+- History (A), Maths (B), Economics (B) (June 2009)
 
 ## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
