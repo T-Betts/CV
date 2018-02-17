@@ -44,13 +44,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Awarded academic entrance exhibition (2004)
 
 - GCSE 
-- RS (A) (June 2006)
-- Maths (A*), English Language (A),
+  RS (A) (June 2006)
+  
+  Maths (A*), English Language (A),
   English Literature (A), Biology (A), Physics (A),
   Chemistry (A), Latin (A), History (A), French (A),
   German (A) (June 2007)
 
 - A2
-- History (A), Maths (B), Economics (B) (June 2009)
+  History (A), Maths (B), Economics (B) (June 2009)
 
 ## Experience
