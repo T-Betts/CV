@@ -1,6 +1,5 @@
 ## Tom Betts
-I am full stack developer.
-
+I am a full stack developer excited to have found a vocation in software development and craftsmanship principles. I'd love to contribute to a development team that cares about doing great work for every client where I can learn continuously and make a positive impact to both culture and code.
 ## Projects
 
 | Title | Description | Tech Stack | Testing |
@@ -9,17 +8,13 @@ I am full stack developer.
 | [Dr Serpent](https://github.com/DrSerpent/DrSerpent) | Two week final team project. An open source Python testing framework that is available as a Python package. The whole framework is test driven in itself. Was an excellent way to get to grips with a new language | Python | DrSerpent |
 | [Tic-Tac-Toe](https://github.com/T-Betts/tictactoe-javascript) | Tech Test. Tic-Tac-Toe Javascript business logic test driven with Jasmine | Javascript | Jasmine |
 
-#### Problem Solving
-
-#### Communication
-
 ## Education
 
 #### Makers Academy (February 2018 to May 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
