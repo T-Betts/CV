@@ -5,9 +5,9 @@ I am full stack developer.
 
 | Title | Description | Tech Stack | Testing |
 |---|---|---|---|
-| [Acebook](https://github.com/julesnuggy/acebook-byte-3) | A team project undertaken in weeks 8 and 9 | Ruby on Rails, |  PostgreSQL, HTML, CSS, Heroku, Amazon S3  |
-| [Dr Serpent](https://github.com/DrSerpent/DrSerpent) | Final Project  | Python |
-| [Tictactoe](https://github.com/T-Betts/tictactoe-javascript) | | Javascript |
+| [Acebook](https://github.com/julesnuggy/acebook-byte-3) | A team project undertaken in weeks 8 and 9 | Ruby on Rails,  PostgreSQL, HTML, CSS, Heroku, Amazon S3  |  RSpec, Capybara, Rubocop, Travis CI, CodeClimate |
+| [Dr Serpent](https://github.com/DrSerpent/DrSerpent) | Final Project  | Python | DrSerpent |
+| [Tictactoe](https://github.com/T-Betts/tictactoe-javascript) | | Javascript | Jasmine |
 
 #### Problem Solving
 
