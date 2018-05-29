@@ -8,6 +8,10 @@ I am a full stack developer excited to have found a vocation in software develop
 | [Dr Serpent](https://github.com/DrSerpent/DrSerpent) | Two week final team project. An open source Python testing framework that is available as a Python package. The whole framework is test driven in itself. Was an excellent way to get to grips with a new language | Python | DrSerpent |
 | [Tic-Tac-Toe](https://github.com/T-Betts/tictactoe-javascript) | Tech Test. Tic-Tac-Toe Javascript business logic test driven with Jasmine | Javascript | Jasmine |
 
+## Skills
+
+## Experience
+
 ## Education
 
 #### Makers Academy (February 2018 to May 2018)
