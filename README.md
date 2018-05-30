@@ -1,5 +1,5 @@
 ## Tom Betts
-I am a full stack developer excited to have found a vocation in software development and craftsmanship principles. I'd love to contribute to a development team that cares about doing great work for every client where I can learn continuously and make a positive impact to both culture and code.
+I am a full stack developer excited to have found a vocation in software development. I'd love to contribute to a development team that cares about doing great work for every client where I can learn continuously and make a positive impact to both culture and code.
 ## Projects
 
 | Title | Description | Tech Stack | Testing |
@@ -10,6 +10,18 @@ I am a full stack developer excited to have found a vocation in software develop
 
 ## Skills
 
+#### Communcation
+
+I have always considered communictaion to be one of my strengths. During my Politics and History degree I was often involved in group work and discussions in seminars. While at Makers Academy I found myself well suited to pair programming and was a good team player in group projects, with strong contributions at standups and retros.
+
+#### Fast Learning
+
+I pick things up quickly. Although new to coding I adapted well to the speed of the Makers course, and am quick to grasp new languages and technologies. For example, during my final project I became confident writing Python code within a few hours. I am extremely tenacious and will keep driving at any issue until it is resolved, but I am not afraid or embarrassed to ask questions and when I don't understand something.
+
+#### Problem Solving
+
+I love problem solving and logic games of all kinds, and this is what first drew me to coding. I enjoy breaking down problems and methodically working through them, and feel at home tackling errors and debugging code. I particularly enjoy sites like Codewars, where I try to do 4 or 5 katas a day in a variety of languages to help keep me sharp. Here is a link to [my Codewars account]()
+
 ## Experience
 
 I have no work experience. After graduating university I had no idea what I wanted to do and it’s fair to say that the four years between university and Makers Academy have not been a roaring success. I did a little travelling and was tempted by the idea of journalism but nothing really grabbed me. However, that changed after a conversation with a software developer. He suggested that I give coding a try and I was instantly hooked. I knew that this was something that I wanted to do and the three months at Makers Academy have only reinforced this feeling. I am truly passionate about coding and pursuing a career as a full stack web developer.
@@ -18,13 +30,9 @@ I have no work experience. After graduating university I had no idea what I want
 
 #### Makers Academy (February 2018 to May 2018)
 
-- Curious and passionate about code
-- Fast, independent learner
-- Great collaborator
-
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Python
 - RSpec, Jasmine
 
 #### Newcastle University (2010-2013)
