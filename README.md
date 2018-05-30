@@ -20,7 +20,7 @@ I pick things up quickly. Although new to coding I adapted well to the speed of 
 
 #### Problem Solving
 
-I love problem solving and logic games of all kinds, and this is what first drew me to coding. I enjoy breaking down problems and methodically working through them, and feel at home tackling errors and debugging code. I particularly enjoy sites like Codewars, where I try to do 4 or 5 katas a day in a variety of languages to help keep me sharp. Here is a link to [my Codewars account]()
+I love problem solving and logic games of all kinds, and this is what first drew me to coding. I enjoy breaking down problems and methodically working through them, and feel at home tackling errors and debugging code. I particularly enjoy sites like Codewars, where I try to do 4 or 5 katas a day in a variety of languages to help keep me sharp. Here is a link to [my Codewars account](https://www.codewars.com/users/T-Betts)
 
 ## Experience
 
