@@ -7,7 +7,7 @@ I am a full stack developer excited to have found a vocation in software develop
 | [Acebook](https://github.com/julesnuggy/acebook-byte-3) | Team project built over two weeks. A Ruby on Rails Facebook imitation deployed on Heroku using the Heroku Pipeline integrated with Travis CI for continuous integration and deployment. | Ruby on Rails,  PostgreSQL, HTML, CSS, Heroku, Amazon S3  |  RSpec, Capybara, Rubocop, Travis CI, CodeClimate |
 | [Dr Serpent](https://github.com/DrSerpent/DrSerpent) | Two week final team project. An open source Python testing framework that is available as a Python package. The whole framework is test driven in itself. Was an excellent way to get to grips with a new language | Python | DrSerpent |
 | [Tic-Tac-Toe](https://github.com/T-Betts/tictactoe-javascript) | Tech Test. Tic-Tac-Toe Javascript business logic test driven with Jasmine | Javascript | Jasmine |
-| [Picture rails](https://github.com/T-Betts/Picture-Rails) | A clone of Instagram. App hosted on Heroku that uses Amazon S3 to allow users to upload images. | Ruby on Rails,  PostgreSQL, HTML, CSS, Heroku, Amazon S3  |  RSpec, Capybara, Rubocop, Travis CI, CodeClimate |
+| [Picture rails](https://github.com/T-Betts/Picture-Rails) | An Instagram-inspired app, hosted on Heroku that uses Amazon S3 to allow users to upload images. | Ruby on Rails,  PostgreSQL, HTML, CSS, Heroku, Amazon S3  |  RSpec, Capybara, Rubocop, Travis CI, CodeClimate |
 
 ## Skills
 
