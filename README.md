@@ -24,7 +24,7 @@ I love problem solving and logic games of all kinds, and this is what first drew
 
 ## Experience
 
-I have no work experience. After graduating university I had no idea what I wanted to do and it’s fair to say that the four years between university and Makers Academy have not been a roaring success. I did a little travelling and was tempted by the idea of journalism but nothing really grabbed me. However, that changed after a conversation with a software developer. He suggested that I give coding a try and I was instantly hooked. I knew that this was something that I wanted to do and the three months at Makers Academy have only reinforced this feeling. I am truly passionate about coding and pursuing a career as a full stack web developer.
+I have no work experience. After graduating university I had no idea what I wanted to do and it’s fair to say that the years between university and Makers Academy have not been a roaring success. I did a little travelling and was tempted by the idea of journalism but nothing really grabbed me. However, that changed after a conversation with a software developer. He suggested that I give coding a try and I was instantly hooked. I knew that this was something that I wanted to do and the three months at Makers Academy have only reinforced this feeling. I am truly passionate about coding and pursuing a career as a full stack web developer.
 
 ## Education
 
