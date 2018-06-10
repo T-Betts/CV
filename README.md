@@ -20,11 +20,11 @@ I pick things up quickly. Although new to coding I adapted well to the speed of 
 
 #### Problem Solving
 
-I love problem solving and logic games of all kinds, and this is what first drew me to coding. I enjoy breaking down problems and methodically working through them, and feel at home tackling errors and debugging code. I particularly enjoy sites like Codewars, where I try to do 4 or 5 katas a day in a variety of languages to help keep me sharp. Here is a link to [my Codewars account](https://www.codewars.com/users/T-Betts)
+I love problem solving and logic games of all kinds, and this is what first drew me to coding. I enjoy breaking down problems and methodically working through them, and feel at home tackling errors and debugging code. I particularly enjoy sites like Codewars, where I do katas in a variety of languages to help keep me sharp. Here is a link to [my Codewars account](https://www.codewars.com/users/T-Betts)
 
 ## Experience
 
-I have no work experience. After graduating university I had no idea what I wanted to do and it’s fair to say that the years between university and Makers Academy have not been a roaring success. I did a little travelling and was tempted by the idea of journalism but nothing really grabbed me. However, that changed after a conversation with a software developer. He suggested that I give coding a try and I was instantly hooked. I knew that this was something that I wanted to do and the three months at Makers Academy have only reinforced this feeling. I am truly passionate about coding and pursuing a career as a full stack web developer.
+I have no work experience. After graduating university I had no idea what I wanted to do and but that all changed after a conversation with a software developer. He suggested that I give coding a try and I was instantly hooked. I knew that this was something that I wanted to do and the three months at Makers Academy have only reinforced this feeling. I am truly passionate about coding and pursuing a career as a full stack web developer.
 
 ## Education
 
