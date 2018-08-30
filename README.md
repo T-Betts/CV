@@ -12,7 +12,7 @@ I am a full stack developer excited to have found a vocation in software develop
 
 #### Communcation
 
-I have always considered communictaion to be one of my strengths. During my Politics and History degree I was often involved in group work and discussions in seminars. While at Makers Academy I found myself well suited to pair programming and was a good team player in group projects, with strong contributions at standups and retros.
+I have always considered communication to be one of my strengths. During my Politics and History degree I was often involved in group work and discussions in seminars. While at Makers Academy I found myself well suited to pair programming and was a good team player in group projects, with strong contributions at standups and retros.
 
 #### Fast Learning
 
